@@ -12,7 +12,7 @@ Double-click `safari-fullscreen-noescape.safariextz` to install.
 ## Notes & Caveats
 By nature, this extension requires access to "all web sites", including secure ones. Because it only monitors for the Escape key to prevent default behaviour, there is no security or privacy concern with this. You can also inspect the source code yourself!
 
-Due to the way in which this extension works (injected JavaScript before a site is loading), there are a few notable situations in which it will not function correctly:
+Due to the way in which this extension works (injected JavaScript before a site is loaded), there are a few notable situations in which it will not function correctly:
 
 * On the New Tab page (extensions such as this are not loaded)
 * If you are using Safari's Development Tools, and keyboard focus is on that frame
