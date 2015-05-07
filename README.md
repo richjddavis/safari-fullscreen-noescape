@@ -4,7 +4,7 @@ A small Safari extension to disable the default behaviour of Safari exiting OS X
 
 ## Download
 
-`git clone` this repository to get the full source and pre-built `safariextz` package.
+Go to [the latest release](https://github.com/richjddavis/safari-fullscreen-noescape/releases/latest) and download the `safari-fullscreen-noescape.safariextz` file.
 
 ## Installation
 Double-click `safari-fullscreen-noescape.safariextz` to install.
@@ -22,7 +22,7 @@ It's also possible (however unlikely) that this could interfere with websites th
 
 ## Build
 
-Add `safari-fullscreen-noescape.safariextension` to Safari's Extension Builder (`Develop → Show Extension Builder`). You will first need to enable `Show Develop menu in menu bar` in Safari's Advanced preferences.
+After `git clone`ing, add `safari-fullscreen-noescape.safariextension` to Safari's Extension Builder (`Develop → Show Extension Builder`). You will first need to enable `Show Develop menu in menu bar` in Safari's Advanced preferences.
 
 ## Licence
 
